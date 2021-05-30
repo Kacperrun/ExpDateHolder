@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\bin\Debug\netcoreapp3.1\ExpDateHolder.exe
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\bin\Debug\netcoreapp3.1\ExpDateHolder.deps.json
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\bin\Debug\netcoreapp3.1\ExpDateHolder.runtimeconfig.json
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\bin\Debug\netcoreapp3.1\ExpDateHolder.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\bin\Debug\netcoreapp3.1\ExpDateHolder.dll
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\bin\Debug\netcoreapp3.1\ExpDateHolder.pdb
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\obj\Debug\netcoreapp3.1\ExpDateHolder.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\obj\Debug\netcoreapp3.1\ExpDateHolder.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\obj\Debug\netcoreapp3.1\ExpDateHolder.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\obj\Debug\netcoreapp3.1\ExpDateHolder.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\obj\Debug\netcoreapp3.1\ExpDateHolder.dll
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\obj\Debug\netcoreapp3.1\ExpDateHolder.pdb
+C:\Users\Dell\source\repos\ExpDateHolder\ExpDateHolder\obj\Debug\netcoreapp3.1\ExpDateHolder.genruntimeconfig.cache
